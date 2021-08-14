@@ -108,7 +108,7 @@ body {
 		border-radius: 25px;
 	}
 	.card {
-		background-color: linear-gradient(to right bottom, rgba(255, 255, 255, 0.9), rgba(255,222, 255, 0.5));
+		background-color: linear-gradient(to right bottom, rgba(255, 255, 255, 1), rgba(255,222, 255, 0.8));
 	}
 	.tprevnext {
 		border-radius: 25px;
@@ -148,7 +148,7 @@ footer {
 	}
 	.dropdown-menu {
 		border-radius: 12.5px;
-		background-color: linear-gradient(to right bottom, rgba(255, 255, 255, 0.9), rgba(255,222, 255, 0.5));
+		background-color: linear-gradient(to right bottom, rgba(255, 255, 255, 1), rgba(255,222, 255, 0.8));
 		backdrop-filter: blur(12px);
 	}
 	.lingkaran1 {
