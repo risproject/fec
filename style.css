@@ -145,6 +145,7 @@ footer {
 		width: 100%;
 		height: 60vh;
 		border-radius: 12.5px;
+		opacity: 80%;
 	}
 	.dropdown-menu {
 		border-radius: 12.5px;
