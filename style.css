@@ -91,14 +91,6 @@ body {
 		background-color: rgba(255, 255, 255, 0.5);
 		backdrop-filter: blur(12px);
 	}
-	/*.display2 {
-		background-image: url(img/banner3.jpg);
-		background-size: cover;
-		border-top-right-radius: 40px;
-		border-top-left-radius: 40px;
-		border-bottom-right-radius: 40px;
-		border-bottom-left-radius: 40px;
-	}*/
 	.news {
 		border-radius: 25px;
 		background: linear-gradient(to right bottom, rgba(255, 255, 255, 0.5), rgba(255,222, 255, 0.3));
